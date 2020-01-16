@@ -49,6 +49,8 @@ const uint32_t DEFAULT_WRITES_BETWEEN_SYNCS = 0;
 const size_t DEFAULT_SIZE_BETWEEN_SYNCS = 0;
 //const size_t DEFAULT_SIZE_BETWEEN_SYNCS = 2 * 1024 * 1024;
 //const size_t DEFAULT_SIZE_BETWEEN_SYNCS = 256 * 1024 * 1024;
+const uint32_t DEFAULT_SSD_READ_GOVERNOR = 0;
+const uint32_t DEFAULT_SSD_WRITE_GOVERNOR = 0;
 
 
 /*******************************************************************************
